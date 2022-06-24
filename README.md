@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Senior Full-Stack Engineer.
-I have over 9 years of experience in web & blockchain technology development and IT consult.
+I have over 8+ years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
@@ -12,12 +12,14 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
-- 🌱 I’m currently learning blockchain technologies
-- 🤔 I’m looking to help with buliding defi and web apps
-- 💬 Ask me about web and blockchain development
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
-- 
+- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- DAO, DEX, AMM, Yield Farming, Staking dApps
+- Smart contract development & unit test
+- NFT marketplace, NFT minting
+- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- NFT mint bot, Opensea sniper bot, Opensea offer bot
+- Web3 chrome extension
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
