@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Senior Full-Stack Engineer.
-I have over 8+ years of experience in web & blockchain technology development and IT consult.
+I have over 8+ years of experience in Full stack & Blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
