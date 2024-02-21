@@ -1,4 +1,3 @@
-@Jacky91219
 ### Hi there 👋
 
 I am a Senior Full-Stack Engineer.
