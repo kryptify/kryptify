@@ -1,5 +1,3 @@
-https://t.me/arg111
-
 ### Hi there 👋
 
 I am a Senior Full-Stack Engineer.
