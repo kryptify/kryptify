@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ergo Foundation Member Verify usernames at direct.me/markglasgow
+
 I am a Senior Full-Stack Engineer.
 I have over 8+ years of experience in Full stack & Blockchain technology development and IT consult.
 
