@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Full-Stack Engineer.
+I am a Senior Full-Stack Engineer. I've edited this for Bruce Morgan's request.
 I have over 8+ years of experience in Full stack & Blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
